@@ -1,0 +1,22 @@
+language,filename,blank,comment,code,"http://cloc.sourceforge.net v 1.60  T=2.90 s (7.2 files/s, 240.0 lines/s)"
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Experimental\WatermarkText.php,19,10,73
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\DynImage.php,26,1,52
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\tests\DynImage\SimpleTest.php,20,0,36
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Reflect.php,12,0,34
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Experimental\DropShadow.php,14,0,29
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Experimental\Polaroid.php,10,0,24
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter.php,13,0,24
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Crop.php,8,0,19
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Border.php,8,0,18
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Experimental\RoundCorners.php,7,0,17
+YAML,C:\NetBeansProjects\git\dynimage\dynimage\.travis.yml,2,0,17
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Resize.php,7,0,16
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Thumb.php,9,0,16
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Colorize.php,9,0,15
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Blur.php,7,0,14
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Rotate.php,8,0,14
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\Gamma.php,8,0,14
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Filter\GrayScale.php,10,0,13
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\FilterInterface.php,7,0,10
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Events.php,6,0,8
+PHP,C:\NetBeansProjects\git\dynimage\dynimage\src\DynImage\Drivers.php,5,0,7
